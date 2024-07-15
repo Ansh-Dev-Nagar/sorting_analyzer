@@ -1,2 +1,9 @@
 # sorting_visualizer
-This web application, built using ** HTML  **, CSS, and JavaScript, provides a dynamic and interactive way to visualize various sorting algorithms, including ** bubble sort, selection sort, insertion sort, quick sort, merge sort, and heap sort **. With features like adjustable animation speed and customizable component sizes, this tool is designed to help you understand and compare the workings of different sorting techniques.
+
+TECH STACK - HTML | CSS | Javascript
+-> Built a web application to visualize different
+sorting techniques.
+-> It show cases working of bubble sort, selection sort,
+insertion sort, quick sort, merge sort and heap sort etc.
+->It includes features like contolling the animation speed,
+size of components etc.
