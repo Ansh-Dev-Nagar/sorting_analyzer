@@ -13,3 +13,5 @@ size of the array and generating new array.
 
 ## Quick sort
 <img width="1416" alt="Screenshot 2024-07-15 at 3 46 17 PM" src="https://github.com/user-attachments/assets/f2c3015e-4843-42f2-b2fb-3fb7d8ba229a">
+
+## and so on....
